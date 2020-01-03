@@ -1,4 +1,4 @@
-package testng;
+package com.github.eljaiek.autopilot.testng;
 
 import com.google.inject.Module;
 
